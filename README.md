@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iaguitow
-- 👀 I’m interested in mobile software develop.
-- 🌱 I’m currently learning react native.
-- 💞️ I’m looking to collaborate on react native projects.
+- 👀 I’m interested in mobile software develop and Databases.
+- 🌱 I’m currently learning new technologies.
+- 💞️ I’m looking to collaborate in database or mobile projects.
 - 📫 How to reach me, vieiras.igs@gmail.com
 
 <!---
